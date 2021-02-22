@@ -21,7 +21,3 @@ s3://sta9760f2020-project2-review-dataset/yelp_academic_dataset_user.json
 
 
 
-## Cluster and Notebook Configs
-
-![notebook](/assets/notebook_configuration.png)
-![cluster](/assets/cluster_configuration.png)
